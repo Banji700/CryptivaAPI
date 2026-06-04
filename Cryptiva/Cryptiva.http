@@ -1,0 +1,6 @@
+@Cryptiva_HostAddress = http://localhost:5034
+
+GET {{Cryptiva_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
