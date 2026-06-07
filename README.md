@@ -21,6 +21,7 @@ I am happy with the state of my API but there are things I can improve and add t
 
 ## Live Website Link:
 Link: https://cryptiva-ftb0fad6ege9gtf4.ukwest-01.azurewebsites.net
+
 API Base Link: https://cryptiva-ftb0fad6ege9gtf4.ukwest-01.azurewebsites.net/api
 
 ## Homepage
