@@ -5,10 +5,15 @@ My API also handles login and registration, deposit virtual funds and transactio
 
 ## Stack:
 For this API I used: 
+
 -ASP.NET Core Web API
+
 -Angular
+
 -SQL Server & Azure SQL
+
 -CoinGecko API
+
 -Azure App Service
 
 ## Future Improvements:
