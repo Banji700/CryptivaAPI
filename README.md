@@ -11,7 +11,7 @@ For this API I used:
 -CoinGecko API
 -Azure App Service
 
-## Improvments:
+## Future Improvements:
 I am happy with the state of my API but there are things I can improve and add to my API such as:
 -Intricate Portfolio Managment
 -Admin Dashboard
