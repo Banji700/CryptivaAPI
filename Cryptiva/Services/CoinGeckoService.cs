@@ -7,7 +7,6 @@ namespace Cryptiva.Services
     {
         readonly HttpClient _httpClient;
 
-
         public CoinGeckoService(HttpClient httpClient)
         {
             _httpClient= httpClient;
@@ -64,10 +63,6 @@ namespace Cryptiva.Services
             {
                 return _cachedMarkets ?? [];    
             }
-            // return markets;
-
-            // return await _httpClient.GetFromJsonAsync<List<CryptoMarketDto>>(url);
-            //return await _httpClient.GetStringAsync(url);
         }
         
     }

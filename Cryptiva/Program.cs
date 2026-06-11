@@ -115,6 +115,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseDefaultFiles();
+
+app.UseStaticFiles();
 
 app.UseCors("CorsPolicy");
 
@@ -127,5 +130,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.MapHub<CryptoHub>("/hub/crypto");
+
+app.MapFallbackToFile("index.html");
 
 app.Run();
