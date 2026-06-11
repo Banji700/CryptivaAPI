@@ -29,6 +29,8 @@ Link: https://cryptiva-ftb0fad6ege9gtf4.ukwest-01.azurewebsites.net
 
 API Base Link: https://cryptiva-ftb0fad6ege9gtf4.ukwest-01.azurewebsites.net/api
 
+Frontend Repo Link: https://github.com/Banji700/CryptivaFrontend
+
 ## Homepage
 <img width="1525" height="927" alt="image" src="https://github.com/user-attachments/assets/5ad80edf-83b0-49a0-a953-612ca36d1edc" />
 
